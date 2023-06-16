@@ -26,7 +26,7 @@ Here is the link: https://gisellerx.github.io/challenge1-code-refactoring/
 
 ## Credits
 
-Giselle Reyes
+Giselle Reyes, README Guideline structure provided by Instructor
 
 ## License
 
